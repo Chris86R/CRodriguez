@@ -1,0 +1,104 @@
+body {
+	background-color: #20a5c3;
+}
+
+.banner {
+	padding: 25px;
+	background-image: url(img/banner_web_design.png);
+	background-size: contain;
+	background-repeat: no-repeat;
+	height: 300px;
+	width:auto;
+	position: relative;
+}
+/*work on the navigation link, no bullet points, text needs to be white while background box is black.Home and contact needs to be aligned.Icon and text needs to be aligned*/
+
+.nav {
+	width: auto;
+	display: inline-block;
+	background-color: black;
+	padding: 25px;
+
+}
+.nav_list{
+	text-transform: capitalize;
+	list-style-type: none;
+	text-underline-position: auto;
+	text-align: center;
+
+}
+.nav_list li{
+	padding: auto;
+	display: inline;
+	color: black;
+	background-color: white;
+	margin: 200px;
+	font-size:22px;
+	font-family: sans-serif;
+}
+.Name {
+	
+	text-transform: capitalize;
+	text-align: center;
+	font-size: 50px;
+	color: white;
+	background-color: black;
+	width: auto;
+	margin: 0;
+	padding: 20px;
+}
+
+.details{
+	text-indent: 20px;
+	font-size: 20px;
+	text-align: justify;
+	max-width: 500px;
+	float: left;
+	
+}
+.icon{
+	width:250px;
+	float: left;
+	margin-left: 70px;
+	margin-top: 60px;
+
+}
+.icon img{
+	width: 100%;
+
+}
+.skills{
+	font-size::20px;
+}
+.skills_list{
+	font-size: 20px;
+	padding: 10px;
+	border: 10px black;
+	margin-left: 20px;
+	
+}
+.contact{
+	
+	font-size:25px;
+	float: right;
+}
+.map
+{
+	float:right;
+	margin-top: ="20px";
+	border:
+
+}
+.map iframes
+{
+	position: relative;
+	margin-top:20px;
+	position: absolute;
+
+}
+.fill
+{
+	float: right;
+	
+}
+
